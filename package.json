@@ -1,0 +1,19 @@
+{
+  "name": "python-with-npm-scripts-hell-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "pip3 install -r requirements.txt",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernando-mc/python-with-npm-scripts-hell-cicd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernando-mc/python-with-npm-scripts-hell-cicd/issues"
+  },
+  "homepage": "https://github.com/fernando-mc/python-with-npm-scripts-hell-cicd#readme"
+}
